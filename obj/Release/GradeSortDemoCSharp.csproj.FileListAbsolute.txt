@@ -1,0 +1,6 @@
+/Users/acosta/Downloads/GradeSortDemoCSharp/bin/Release/GradeSortDemoCSharp.exe.config
+/Users/acosta/Downloads/GradeSortDemoCSharp/bin/Release/GradeSortDemoCSharp.exe
+/Users/acosta/Downloads/GradeSortDemoCSharp/bin/Release/GradeSortDemoCSharp.pdb
+/Users/acosta/Downloads/GradeSortDemoCSharp/obj/Release/GradeSortDemoCSharp.csproj.CoreCompileInputs.cache
+/Users/acosta/Downloads/GradeSortDemoCSharp/obj/Release/GradeSortDemoCSharp.exe
+/Users/acosta/Downloads/GradeSortDemoCSharp/obj/Release/GradeSortDemoCSharp.pdb
